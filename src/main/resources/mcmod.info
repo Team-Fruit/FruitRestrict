@@ -1,0 +1,26 @@
+{
+  "modListVersion": 2,
+  "modList": [
+    {
+      "modid": "fruitrestrict",
+      "name": "FruitRestricct",
+      "description": "Fruit Restrict",
+      "mcversion": "${mcversion}",
+      "version": "${version}",
+      "authorList": [
+        "sjcl",
+        "Kamesuta"
+      ],
+      "credits": "2017 TeamFruit",
+      "dependants": [],
+      "dependencies": ["Forge@[${minforgeversion},)"],
+      "parent": "",
+      "requiredMods": ["Forge@[${minforgeversion},)"],
+      "logoFile": "assets/signpic/textures/logo.png",
+      "screenshots": [],
+      "updateUrl": "https://github.com/Team-Fruit/FruitRestrict/releases",
+      "url": "https://github.com/Team-Fruit/FruitRestrict",
+      "useDependencyInformation": false
+    }
+  ]
+}
