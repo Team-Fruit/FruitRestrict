@@ -15,7 +15,7 @@
       "dependants": [],
       "dependencies": ["Forge@[${minforgeversion},)"],
       "parent": "",
-      "requiredMods": ["Forge@[${minforgeversion},)"],
+      "requiredMods": ["Forge@[${minforgeversion},)", "ftbu"],
       "logoFile": "assets/signpic/textures/logo.png",
       "screenshots": [],
       "updateUrl": "https://github.com/Team-Fruit/FruitRestrict/releases",
