@@ -14,6 +14,6 @@ public enum FTBUIntegration implements IFTBUtilitiesPlugin {
 	@Override
 	public void init(final FTBUtilitiesAPI api) {
 		API = api;
-		MinecraftForge.EVENT_BUS.register(INSTANCE);
+		MinecraftForge.EVENT_BUS.register(ClaimedChunkHandler.INSTANCE);
 	}
 }
