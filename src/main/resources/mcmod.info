@@ -13,14 +13,12 @@
       ],
       "credits": "2017 TeamFruit",
       "dependants": [],
-      "dependencies": ["Forge@[${minforgeversion},)"],
       "parent": "",
-      "requiredMods": ["Forge@[${minforgeversion},)", "ftbu"],
-      "logoFile": "assets/signpic/textures/logo.png",
+      "requiredMods": ["ftbu"],
       "screenshots": [],
       "updateUrl": "https://github.com/Team-Fruit/FruitRestrict/releases",
       "url": "https://github.com/Team-Fruit/FruitRestrict",
-      "useDependencyInformation": false
+      "useDependencyInformation": true
     }
   ]
 }
